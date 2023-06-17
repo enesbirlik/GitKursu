@@ -1,0 +1,1 @@
+bir seyler yazma zamanı geldi gibi sanki

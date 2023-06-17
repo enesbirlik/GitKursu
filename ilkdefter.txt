@@ -1,1 +1,5 @@
 git kursu deneme 123
+
+devam ediyoruz kursumuza
+
+gitignore cok iyimis yha
